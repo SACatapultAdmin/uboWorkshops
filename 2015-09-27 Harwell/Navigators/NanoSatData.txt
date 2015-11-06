@@ -1,0 +1,426 @@
+Initial, on the ground
+Sending request for Temperature
+No reply from NanoSat :-(
+Sending request for Temperature
+Reply from NanoSat: 14.00
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.11
+IR : 745.00
+Light : 276.00
+Accelerometer
+No reply from NanoSat :-(
+Accelerometer
+Reply from NanoSat: 
+Accel-X : -0.81
+Accel-Y :  0.42
+Accel-Z Timed-out
+Magnetic field
+Reply from NanoSat: 
+Mag-X :  0.05
+Mag-Y : -0.08
+Mag-Z : -0.37
+(should be less than 20 degress for photo) psi=8.66 
+(should be less than 20 degress for photo) theta=75.73 
+phi=-6.67 
+Accelerometer
+Reply from NanoSat: 
+Accel-X : -1.20
+Accel-Y : -0.07
+Accel-Z : -8.78
+Gyroscope
+Reply from NanoSat: 
+Gyro-X :  7.22
+Gyro-Y : -1.89
+Gyro-Z : 50.03
+Sending request for Temperature
+Reply from NanoSat: 15.00
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.12
+IR Timed-out
+Light Timed-out
+UV Index, IR and Light
+Reply from NanoSat: 
+UV : 818.00
+IR : 279.00
+Light Timed-out
+UV Index, IR and Light
+Reply from NanoSat: 
+UV : 277.00
+IR Timed-out
+Light Timed-out
+Sending request for Temperature
+No reply from NanoSat :-(
+Sending request for Temperature
+No reply from NanoSat :-(
+Sending request for Temperature
+No reply from NanoSat :-(
+Sending request for Temperature
+Reply from NanoSat: 15.00
+UV Index, IR and Light
+No reply from NanoSat :-(
+UV Index, IR and Light
+No reply from NanoSat :-(
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.12
+IR : 855.00
+Light : 279.00
+Accelerometer
+Reply from NanoSat: 
+Accel-X : -1.33
+Accel-Y :  0.33
+Accel-Z : -9.11
+Magnetic field
+Reply from NanoSat: 
+Mag-X : -0.01
+Mag-Y :  0.13
+Mag-Z : -0.36
+(should be less than 20 degress for photo) psi=-26.01 
+(should be less than 20 degress for photo) theta=70.13 
+phi=10.75 
+Gyroscope
+Reply from NanoSat: 
+Gyro-X :  5.38
+Gyro-Y : 12.18
+Gyro-Z : 38.21
+
+Up and about 
+Sending request for Temperature
+Reply from NanoSat: 15.00
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.12
+IR : 781.00
+Light : 277.00
+Accelerometer
+Reply from NanoSat: 
+Accel-X : -0.95
+Accel-Y : -0.05
+Accel-Z : -7.56
+Magnetic field
+Reply from NanoSat: 
+Mag-X : -0.07
+Mag-Y :  0.09
+Mag-Z : -0.39
+(should be less than 20 degress for photo) psi=-19.08 
+(should be less than 20 degress for photo) theta=73.74 
+phi=6.16 
+Gyroscope
+Reply from NanoSat: 
+Gyro-X :  3.59
+Gyro-Y : 14.93
+Gyro-Z : 44.10
+Sending request for Temperature
+Reply from NanoSat: 15.00
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.11
+IR : 753.00
+Light : 277.00
+Accelerometer
+Reply from NanoSat: 
+Accel-X : -1.38
+Accel-Y : -0.22
+Accel-Z : -9.74
+Magnetic field
+Reply from NanoSat: 
+Mag-X : -0.09
+Mag-Y :  0.12
+Mag-Z : -0.37
+(should be less than 20 degress for photo) psi=-29.33 
+(should be less than 20 degress for photo) theta=67.97 
+phi=-171.51 
+Gyroscope
+Reply from NanoSat: 
+Gyro-X :  4.25
+Gyro-Y :  1.18
+Gyro-Z : 68.61
+Sending request for Temperature
+Reply from NanoSat: 15.00
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.12
+IR : 810.00
+Light : 279.00
+Accelerometer
+Reply from NanoSat: 
+Accel-X : -1.69
+Accel-Y : -0.15
+Accel-Z : -10.44
+Magnetic field
+Reply from NanoSat: 
+Mag-X : -0.04
+Mag-Y :  0.07
+Mag-Z : -0.39
+(should be less than 20 degress for photo) psi=-13.32 
+(should be less than 20 degress for photo) theta=78.36 
+phi=4.95 
+Gyroscope
+No reply from NanoSat :-(
+Gyroscope
+No reply from NanoSat :-(
+Gyroscope
+No reply from NanoSat :-(
+Gyroscope
+Reply from NanoSat: 
+Gyro-X :  2.69
+Gyro-Y :  4.64
+Gyro-Z : 56.16
+
+
+Sending request for Temperature
+No reply from NanoSat :-(
+Sending request for Temperature
+Reply from NanoSat: 15.00
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.11
+IR : 763.00
+Light : 277.00
+Accelerometer
+Reply from NanoSat: 
+Accel-X : -0.80
+Accel-Y :  0.26
+Accel-Z : -9.92
+Magnetic field
+Reply from NanoSat: 
+Mag-X : -0.04
+Mag-Y : -0.22
+Mag-Z : -0.36
+(should be less than 20 degress for photo) psi=18.14 
+(should be less than 20 degress for photo) theta=58.18 
+phi=160.98 
+Gyroscope
+Reply from NanoSat: 
+Gyro-X :  7.45
+Gyro-Y :  3.58
+Gyro-Z : 33.63
+************************************
+Command not defined yet. Options are
+1 - Temperature
+2 - UV Index, IR and Light
+3 - Accelerometer
+4 - Magnetic Field
+5 - Gyroscope
+9 - Take a picture
+************************************
+Gyroscope
+No reply from NanoSat :-(
+Gyroscope
+Reply from NanoSat: 
+Gyro-X : -1.05
+Gyro-Y Timed-out
+Gyro-Z : And hello back to yogÖïõ~Õqô™\-)î³èÇI5ýÿ¿
+­Þm¡õsý5
+Yüëÿ½û­Ó]¬^°Ë·ÈÇ/gÖïõ~Õqô™\-)î³èÇI5ýÿ¿
+­Þm¡õsýÝ
+Ã¿wY¿!Èá>ýæ¿?0å¿
+Gyroscope
+No reply from NanoSat :-(
+Gyroscope
+No reply from NanoSat :-(
+Sending request for Temperature
+Reply from NanoSat: 15.00
+Gyroscope
+No reply from NanoSat :-(
+Magnetic field
+Reply from NanoSat: 
+Mag-X : -0.08
+Mag-Y : -0.32
+Mag-Z : -0.33
+(should be less than 20 degress for photo) psi=20.28 
+(should be less than 20 degress for photo) theta=45.04 
+phi=146.57 
+Gyroscope
+No reply from NanoSat :-(
+Gyroscope
+Reply from NanoSat: 
+Gyro-X : 16.14
+Gyro-Y :  9.05
+Gyro-Z : 27.51
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.11
+IR : 799.00
+Light : 278.00
+Gyroscope
+Reply from NanoSat: 
+Gyro-X : -1.10
+Gyro-Y :  5.51
+Gyro-Z : 47.42
+Magnetic field
+Reply from NanoSat: 
+Mag-X :  0.03
+Mag-Y : -0.23
+Mag-Z : -0.35
+(should be less than 20 degress for photo) psi=16.65 
+(should be less than 20 degress for photo) theta=56.50 
+phi=-21.83 
+Accelerometer
+Reply from NanoSat: 
+Accel-X : -2.11
+Accel-Y :  0.58
+Accel-Z : -10.71
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.11
+IR : 778.00
+Light : 278.00
+
+** Far and up
+Sending request for Temperature
+Reply from NanoSat: 14.00
+UV Index, IR and Light
+No reply from NanoSat :-(
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.12
+IR : 852.00
+Light : 280.00
+Accelerometer
+Reply from NanoSat: 
+Accel-X : -0.92
+Accel-Y : -0.35
+Accel-Z : -9.86
+Magnetic field
+No reply from NanoSat :-(
+Magnetic field
+Reply from NanoSat: 
+Mag-X :  0.08
+Mag-Y : -0.11
+Mag-Z : -0.35
+(should be less than 20 degress for photo) psi=10.42 
+(should be less than 20 degress for photo) theta=68.80 
+phi=-10.10 
+Gyroscope
+Reply from NanoSat: 
+Gyro-X : 21.36
+Gyro-Y : -11.31
+Gyro-Z Timed-out
+Gyroscope
+Reply from NanoSat: 
+Gyro-X : -6.26
+Gyro-Y :  5.59
+Gyro-Z : 50.19
+
+** Far away, coming down
+Sending request for Temperature
+Reply from NanoSat: 14.00
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.11
+IR : 792.00
+Light : 278.00
+Accelerometer
+No reply from NanoSat :-(
+Accelerometer
+No reply from NanoSat :-(
+Magnetic field
+Reply from NanoSat: 
+Mag-X :  0.04
+Mag-Y : -0.01
+Mag-Z : -0.37
+(should be less than 20 degress for photo) psi=1.35 
+(should be less than 20 degress for photo) theta=83.68 
+phi=-0.81 
+Accelerometer
+Reply from NanoSat: 
+Accel-X : -1.17
+Accel-Y : -0.31
+Accel-Z : -10.62
+Gyroscope
+Reply from NanoSat: 
+Gyro-X :  7.08
+Gyro-Y : 11.76
+Gyro-Z : 49.99
+Sending request for Temperature
+No reply from NanoSat :-(
+Sending request for Temperature
+Reply from NanoSat: 13.00
+
+** Clear Line of Sight
+Sending request for Temperature
+Reply from NanoSat: 13.00
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.11
+IR : 777.00
+Light : 278.00
+Accelerometer
+No reply from NanoSat :-(
+Accelerometer
+Reply from NanoSat: 
+Accel-X : -0.66
+Accel-Y : -0.21
+Accel-Z : -10.62
+Magnetic field
+Reply from NanoSat: 
+Mag-X :  0.00
+Mag-Y : -0.10
+Mag-Z : -0.38
+(should be less than 20 degress for photo) psi=11.18 
+(should be less than 20 degress for photo) theta=75.29 
+phi=172.34 
+Gyroscope
+Reply from NanoSat: 
+Gyro-X : -14.45
+Gyro-Y :  4.66
+Gyro-Z : 38.70
+
+** Final
+Sending request for Temperature
+Reply from NanoSat: 13.00
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.12
+IR : 815.00
+Light : 279.00
+Accelerometer
+Reply from NanoSat: 
+Accel-X : -0.57
+Accel-Y : -0.94
+Accel-Z : -11.25
+Magnetic field
+Reply from NanoSat: 
+Mag-X :  0.05
+Mag-Y :  0.12
+Mag-Z : -0.34
+(should be less than 20 degress for photo) psi=-20.38 
+(should be less than 20 degress for photo) theta=69.11 
+phi=11.16 
+Gyroscope
+Reply from NanoSat: 
+Gyro-X :  0.46
+Gyro-Y : 18.65
+Gyro-Z : 64.34
+
+** Final, on the ground
+Sending request for Temperature
+Reply from NanoSat: 15.00
+UV Index, IR and Light
+Reply from NanoSat: 
+UV :  0.06
+IR : 513.00
+Light : 267.00
+Accelerometer
+Reply from NanoSat: 
+Accel-X :  0.46
+Accel-Y : -1.59
+Accel-Z : -9.29
+Magnetic field
+Reply from NanoSat: 
+Mag-X : -0.13
+Mag-Y :  0.19
+Mag-Z : -0.34
+(should be less than 20 degress for photo) psi=-51.94 
+(should be less than 20 degress for photo) theta=55.93 
+phi=15.32 
+Gyroscope
+No reply from NanoSat :-(
+Gyroscope
+Reply from NanoSat: 
+Gyro-X :  7.48
+Gyro-Y : -0.44
+Gyro-Z : 57.22
